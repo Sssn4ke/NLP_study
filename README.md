@@ -22,7 +22,7 @@
 | 87138  | 24704  | 19827  |
 
 ### График распределения классов 
-
+![](images_of_results/distribution_of_reviews.png)
 ## Результаты
 
 ### Стемминг и TF-IDF
